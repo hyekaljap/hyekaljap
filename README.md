@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A passionate frontend developer from MALAYSIA
 ---------------------------------------------
 
-I/ve been learning programming for almost 3 years. Starting from HTML and develop an educational website for my school project on 2019. Currently I in UTM to continue my journey in programming life.
+I/ve been learning programming for almost 3 years. Starting from HTML and develop an educational website for my school project on 2019. Currently I'm in UTM to continue my journey in programming life.
 
 * 🌍  I'm based in MALAYSIA
 * ✉️  You can contact me at [haikaljapri8@gmail.com](mailto:haikaljapri8@gmail.com)
