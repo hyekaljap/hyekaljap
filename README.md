@@ -9,6 +9,7 @@ I/ve been learning programming for almost 3 years. Starting from HTML and develo
 * 🌍  I'm based in MALAYSIA
 * ✉️  You can contact me at [haikaljapri8@gmail.com](mailto:haikaljapri8@gmail.com)
 * 🧠  I'm learning C++
+* 🧠  I'm learning R
 * ⚡  I'm single but not available
 
 ### Skills
