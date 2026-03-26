@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **C++ and R Programming**
+- 🔭 I’m currently working on **C++, HTML, JavaScript and AR based Programming**
 
 - ☁️ I've keen interest in cloud computing. 
 
